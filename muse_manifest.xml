@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="nwselfcheckout.com,nwselfcheckout.github.io" resolutions="1x" timestamp="1613219612993">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="nwselfcheckout.com,nwselfcheckout.github.io" resolutions="1x" timestamp="1613220479195">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="4133771440" ref="index"/>
-    <file name="nomq_index.css" crc="3796194429" ref="index"/>
+    <file name="index.css" crc="152545875" ref="index"/>
+    <file name="nomq_index.css" crc="409187522" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -15,21 +15,8 @@
     <file name="require.js" crc="4177726516" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="u242-4.png" crc="4112054637" ref="index"/>
-    <file name="u249-8.png" crc="4252451768" ref="index"/>
     <file name="canvas-asset 1.svg" crc="105057336" ref="index"/>
     <file name="canvas-asset 1_poster_u230.png" crc="378071818" ref="index"/>
-    <file name="u242-42.png" crc="203727322" ref="index"/>
-    <file name="u249-82.png" crc="4126585949" ref="index"/>
-    <file name="u242-43.png" crc="3966985594" ref="index"/>
-    <file name="u249-83.png" crc="233336393" ref="index"/>
-    <file name="u242-44.png" crc="3928788126" ref="index"/>
-    <file name="u249-84.png" crc="3850396285" ref="index"/>
-    <file name="u242-45.png" crc="283583238" ref="index"/>
-    <file name="u249-85.png" crc="65482168" ref="index"/>
-    <file name="u242-46.png" crc="4047379279" ref="index"/>
-    <file name="u249-86.png" crc="4080548810" ref="index"/>
-    <file name="blank.gif" crc="4208392903" ref="index"/>
   </folder>
-  <file name="index.html" crc="191660788" seo="true" mt="1613219115862" redirect="true"/>
+  <file name="index.html" crc="4173902073" seo="true" mt="1613220455233" redirect="true"/>
 </manifest>
