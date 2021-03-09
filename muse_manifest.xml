@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="nwselfcheckout.com,nwselfcheckout.github.io" resolutions="1x,2x" timestamp="1615264285272">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="nwselfcheckout.com,nwselfcheckout.github.io" resolutions="1x,2x" timestamp="1615265467731">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="174003173" ref="index"/>
+    <file name="index.css" crc="103448665" ref="index"/>
     <file name="nomq_index.css" crc="409187522" ref="index"/>
   </folder>
   <folder name="scripts">
@@ -19,5 +19,5 @@
     <file name="canvas-asset 1_poster_u230.png" crc="378071818" ref="index"/>
     <file name="favicon.ico" crc="361218599" ref="index"/>
   </folder>
-  <file name="index.html" crc="22015782" seo="true" mt="1615264195533" redirect="true"/>
+  <file name="index.html" crc="3900610314" seo="true" mt="1615265014608" redirect="true"/>
 </manifest>
