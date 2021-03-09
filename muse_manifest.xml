@@ -1,26 +1,35 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="nwselfcheckout.com,nwselfcheckout.github.io" resolutions="1x,2x" timestamp="1615272234232">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="nwselfcheckout.com,nwselfcheckout.github.io" resolutions="1x,2x" timestamp="1615272742377">
+  <folder name="phone">
+    <folder name="css">
+      <file name="mirror.css" crc="365903339" ref="phone>mirror"/>
+      <file name="nomq_mirror.css" crc="3824530138" ref="phone>mirror"/>
+      <file name="index.css" crc="3936375724" ref="phone>index"/>
+    </folder>
+    <file name="index.html" crc="3987542111" seo="true" mt="1615272653190" redirect="true"/>
+    <file name="mirror.html" crc="488185272" seo="true" mt="1615272628180" redirect="true"/>
+  </folder>
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="103448665" ref="index"/>
+    <file name="index.css" crc="230190134" ref="index"/>
     <file name="nomq_index.css" crc="409187522" ref="index"/>
-    <file name="mirror.css" crc="505405244" ref="mirror"/>
+    <file name="mirror.css" crc="339399467" ref="mirror"/>
     <file name="nomq_mirror.css" crc="296297800" ref="mirror"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:mirror"/>
-    <file name="museutils.js" crc="3939489907" ref="index:mirror"/>
-    <file name="whatinput.js" crc="86476730" ref="index:mirror"/>
-    <file name="museconfig.js" crc="3936894949" ref="index:mirror"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="85124417" ref="index:mirror"/>
-    <file name="jquery.watch.js" crc="522499760" ref="index:mirror"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:mirror:phone>index:phone>mirror"/>
+    <file name="museutils.js" crc="3939489907" ref="index:mirror:phone>index:phone>mirror"/>
+    <file name="whatinput.js" crc="86476730" ref="index:mirror:phone>index:phone>mirror"/>
+    <file name="museconfig.js" crc="3936894949" ref="index:mirror:phone>index:phone>mirror"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="85124417" ref="index:mirror:phone>index:phone>mirror"/>
+    <file name="jquery.watch.js" crc="522499760" ref="index:mirror:phone>index:phone>mirror"/>
     <file name="jquery.museresponsive.js" crc="95814420" ref="index:mirror"/>
-    <file name="require.js" crc="4177726516" ref="index:mirror"/>
+    <file name="require.js" crc="4177726516" ref="index:mirror:phone>index:phone>mirror"/>
   </folder>
   <folder name="images">
-    <file name="canvas-asset 1.svg" crc="105057336" ref="index:mirror"/>
-    <file name="canvas-asset 1_poster_u230.png" crc="378071818" ref="index:mirror"/>
-    <file name="favicon.ico" crc="361218599" ref="index"/>
+    <file name="canvas-asset 1.svg" crc="105057336" ref="index:mirror:phone>index:phone>mirror"/>
+    <file name="favicon.ico" crc="307529092" ref="phone>index"/>
+    <file name="canvas-asset 1_poster_u1145.png" crc="378071818" ref="phone>index:phone>mirror:index:mirror"/>
   </folder>
-  <file name="index.html" crc="4003068887" seo="true" mt="1615272038591" redirect="true"/>
-  <file name="mirror.html" crc="3918819885" seo="true" mt="1615272208272" redirect="true"/>
+  <file name="index.html" crc="311626560" seo="true" mt="1615272452752" redirect="true"/>
+  <file name="mirror.html" crc="270498646" seo="true" mt="1615272452792" redirect="true"/>
 </manifest>

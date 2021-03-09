@@ -5,11 +5,13 @@
     <lastmod>2021-03-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://nwselfcheckout.com/phone/index.html"/>
   </url>
   <url>
     <loc>http://nwselfcheckout.com/mirror.html</loc>
     <lastmod>2021-03-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://nwselfcheckout.com/phone/mirror.html"/>
   </url>
 </urlset>
